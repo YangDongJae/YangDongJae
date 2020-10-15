@@ -13,6 +13,8 @@
 - Software Engineering
 - Leadership, Writing, Presentation
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YangDongJae )](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://YangDongJae.github.io/)](https://YangDongJae.github.io/) 
